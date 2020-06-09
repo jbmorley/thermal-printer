@@ -6,5 +6,5 @@ Printer enclosure based on the Adafruit IoT Pi Printer Project Pack
 
 # Credits
 
-- [Raspberry Pi 4](https://www.thingiverse.com/thing:3778297)
+- [Raspberry Pi 4 model](https://www.thingiverse.com/thing:3778297)
 - You can find the original design files on [Thingiverse](https://www.thingiverse.com/thing:142857).
