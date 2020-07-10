@@ -1,6 +1,6 @@
 # Thermal Printer
 
-Printer enclosure based on the Adafruit IoT Pi Printer Project Pack
+Printer enclosure based on the [Adafruit IoT Pi Printer Project Pack](https://www.adafruit.com/product/1289)
 
 ![Render of the printer and enclosure](images/render.png)
 
