@@ -1,4 +1,4 @@
-# thermal-printer
+# Thermal Printer
 
 Printer enclosure based on the Adafruit IoT Pi Printer Project Pack
 
